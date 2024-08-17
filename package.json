@@ -1,0 +1,21 @@
+{
+  "name": "print-website-content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "website",
+    "url"
+  ],
+  "author": "Konstantin M",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "puppeteer": "^23.1.0",
+    "yargs": "^17.7.2"
+  }
+}
